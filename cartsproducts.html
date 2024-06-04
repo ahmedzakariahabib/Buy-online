@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shopping cart || Carts products</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/all.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div class="header-content">
+          <a href="index.html" class="brand">Shopping cart</a>
+
+          <nav>
+            <ul id="links">
+              <li><a href="login.html">Sign In</a></li>
+              <li><a href="register.html">Sign Up</a></li>
+            </ul>
+
+            <ul id="user_info">
+              <li><a href="#" id="user"></a></li>
+              <li class="shopping_cart">
+                <i class="fas fa-shopping-cart"></i>
+                <span class="badge"></span>
+                <div class="carts_products">
+                  <div></div>
+                  <a href="cartsproducts.html">View All products</a>
+                </div>
+              </li>
+              <li><a href="#" id="logout">Log Out</a></li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <div class="container">
+      <div class="products"></div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="js/carts.js"></script>
+    <script src="js/user.js"></script>
+  </body>
+</html>
