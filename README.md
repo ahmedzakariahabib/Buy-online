@@ -14,6 +14,12 @@ Users can create an account, log in, browse products, and add items to their sho
 ### Built with
 HTML CSS JAVASCRIPT
 
+### links
+
+[Live Demo](https://ahmedzakariahabib.github.io/Buy-online/)
+
+[Github RePo](https://github.com/ahmedzakariahabib/Buy-online)
+
 ### Screen shot
 ![Screenshot_5-6-2024_01820_](https://github.com/ahmedzakariahabib/Buy-online/assets/109096633/c2f0653c-e7b8-4fb8-8e0b-22a7186da4f7)
 
